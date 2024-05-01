@@ -64,3 +64,4 @@ _busybox_: `    `
 
 ### Attached logs & configs
 
+See `checklist.md` for more details.
