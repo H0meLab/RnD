@@ -62,6 +62,13 @@ _CC_     : `    `
 _libc_:    `    `  
 _busybox_: `    `  
 
+### Network
+
+_IPs_    : `    `  
+_routes_ : `    `  
+_ports_  : `    `  
+_debug_  : `    `  
+
 ### Attached logs & configs
 
 See `checklist.md` for more details.
