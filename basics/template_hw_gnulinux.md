@@ -49,6 +49,11 @@ _Layout_:  `    `
 _Type_  :  `    `  
 _Info_  :  `    `  
 
+### Test points
+
+_Groups_:  `    `  
+_Labels_:  `    `  
+
 
 ## Software
 
