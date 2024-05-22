@@ -15,15 +15,15 @@ Once access to a terminal of a device of interest is gained using any available 
 
 #### Commands
 
-`uname -a`
-`mount`
-`df`
+- `uname -a`
+- `mount`
+- `df`
 
 #### Files
 
-`/proc/version`
-`/proc/cpuinfo`
-`/proc/config.gz`
+- `/proc/version`
+- `/proc/cpuinfo`
+- `/proc/config.gz`
 
 TBA
 
